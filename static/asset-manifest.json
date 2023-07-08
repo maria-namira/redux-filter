@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/redux-filter/static/css/main.6fed01e3.css",
+    "main.js": "/redux-filter/static/js/main.808baf18.js",
+    "static/js/787.a0b83155.chunk.js": "/redux-filter/static/js/787.a0b83155.chunk.js",
+    "static/media/Inter.ttf": "/redux-filter/static/media/Inter.9cd7588f47651215d52f.ttf",
+    "static/media/icomoon.eot?bqe4pp": "/redux-filter/static/media/icomoon.6b71ccb93bbb241c334b.eot",
+    "static/media/icomoon.woff?bqe4pp": "/redux-filter/static/media/icomoon.9f54c46cb4f9639cb040.woff",
+    "static/media/icomoon.ttf?bqe4pp": "/redux-filter/static/media/icomoon.134a0b6d2066a6b30651.ttf",
+    "static/media/icomoon.svg?bqe4pp": "/redux-filter/static/media/icomoon.b2f9eea1da8f679ae025.svg",
+    "index.html": "/redux-filter/index.html",
+    "main.6fed01e3.css.map": "/redux-filter/static/css/main.6fed01e3.css.map",
+    "main.808baf18.js.map": "/redux-filter/static/js/main.808baf18.js.map",
+    "787.a0b83155.chunk.js.map": "/redux-filter/static/js/787.a0b83155.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fed01e3.css",
+    "static/js/main.808baf18.js"
+  ]
+}
